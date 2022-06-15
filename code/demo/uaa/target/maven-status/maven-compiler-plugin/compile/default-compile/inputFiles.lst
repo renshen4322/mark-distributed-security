@@ -1,0 +1,16 @@
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\service\UserService.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\config\WebSecurityConfig.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\handler\SuccessHandler.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\config\TokenConfig.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\UaaApplication.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\service\SecurityUserDetailService.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\handler\LogoutHandler.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\entity\PermissionEntry.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\handler\FailureHandler.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\exception\WebResponseTranslator.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\mapper\PermissionMapper.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\config\AuthorizationServer.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\mapper\UserMapper.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\service\PermissionService.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\exception\CustomOauthException.java
+D:\tianji\code\distributed-security\code\demo\uaa\src\main\java\com\uaa\security\exception\CustomOauthExceptionSerializer.java

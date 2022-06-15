@@ -1,0 +1,16 @@
+com\uaa\security\exception\CustomOauthException.class
+com\uaa\security\exception\CustomOauthExceptionSerializer.class
+com\uaa\mapper\UserMapper.class
+com\uaa\security\service\SecurityUserDetailService.class
+com\uaa\security\config\TokenConfig.class
+com\uaa\security\handler\FailureHandler.class
+com\uaa\security\handler\LogoutHandler.class
+com\uaa\security\handler\SuccessHandler.class
+com\uaa\entity\PermissionEntry.class
+com\uaa\security\config\WebSecurityConfig.class
+com\uaa\UaaApplication.class
+com\uaa\mapper\PermissionMapper.class
+com\uaa\service\PermissionService.class
+com\uaa\security\exception\WebResponseTranslator.class
+com\uaa\security\config\AuthorizationServer.class
+com\uaa\service\UserService.class

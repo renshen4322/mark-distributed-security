@@ -1,0 +1,7 @@
+com\school\security\handler\CustomAccessDeniedHandler.class
+com\school\SchoolApplication.class
+com\school\security\config\TokenConfig.class
+com\school\filter\AuthenticationFilter.class
+com\school\controller\StudentController.class
+com\school\security\config\ResouceServerConfig.class
+com\school\controller\TeacherController.class

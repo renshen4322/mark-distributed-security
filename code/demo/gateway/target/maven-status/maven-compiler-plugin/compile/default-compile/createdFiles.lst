@@ -1,0 +1,5 @@
+com\gateway\GatewayApplicaion.class
+com\gateway\filter\GatewayFilterConfig.class
+com\gateway\security\config\SecurityConfig.class
+com\gateway\security\config\TokenConfig.class
+com\gateway\config\GatewayCorsConfiguration.class
